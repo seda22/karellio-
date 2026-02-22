@@ -136,4 +136,8 @@ Seçilen destinasyona ait:
 
 -liste halinde gösterilmelidir.
 
+### Dinamik İçerik Güncellemesi
+
+
+
 KARELLIO
