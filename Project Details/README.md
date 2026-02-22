@@ -24,3 +24,20 @@ Bu proje, destinasyon bazlı çalışan bir seyahat planlama arayüzünün proto
 
 Kapsam dâhilinde:
 
+Belirli bir destinasyon seçimi yapılabilmesi
+
+Seçilen destinasyona ait aşağıdaki bilgi gruplarının tek bir arayüz altında sunulması:
+
+Ulaşım bilgileri
+
+Konaklama bilgileri
+
+Yeme-içme bilgileri
+
+Aktivite bilgileri
+
+Kullanıcının yaptığı seçimlere göre içeriğin dinamik olarak görüntülenmesi
+
+sağlanacaktır.
+
+Bu proje bir web tabanlı kullanıcı arayüzü prototipi geliştirme çalışmasıdır.
