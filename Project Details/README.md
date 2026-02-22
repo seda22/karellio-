@@ -102,7 +102,13 @@ mevcut destinasyonlar arasından seçim yapabilmelidir.
 
 ### Ulaşım Bilgilerinin Gösterimi
 
+Seçilen destinasyona ait:
 
+-ulaşım seçenekleri
+
+-ulaşım açıklamaları
+
+listelenebilmelidir.
 
 
 KARELLIO
