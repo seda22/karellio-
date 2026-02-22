@@ -211,5 +211,8 @@ Arayüz sade ve kullanılabilir yapıdadır.
 
 ### Beklenen Sonuç
 
+Geliştirilen arayüzün, seyahat planlama sürecini sadeleştirerek kullanıcıların daha hızlı karar verebilmesini sağlaması beklenmektedir.
+
+
 
 KARELLIO
