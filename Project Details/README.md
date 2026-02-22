@@ -96,7 +96,9 @@ erişebileceği bir sistem ihtiyacı bulunmaktadır.
 -Kullanıcı seçimlerine göre içeriklerin dinamik olarak gösterilmesi
 
 ### Fonksiyonel Gereksinimler
+Kullanıcı sistem üzerinde:
 
+mevcut destinasyonlar arasından seçim yapabilmelidir.
 
 
 
