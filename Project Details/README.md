@@ -42,4 +42,4 @@ sağlanacaktır.
 
 Bu proje bir web tabanlı kullanıcı arayüzü prototipi geliştirme çalışmasıdır.
 
-### Kapsam Dışı Unsurlar
+### Hedef Kullanıcı Profili
