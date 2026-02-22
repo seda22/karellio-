@@ -144,6 +144,15 @@ Kullanıcının:
 
 -tüm içerikler otomatik olarak güncellenmelidir.
 
+### Fonksiyonel Olmayan Gereksinimler
+1. Kullanılabilirlik
+-Arayüz sade ve anlaşılır olmalıdır.
+
+-Kullanıcı minimum adım ile bilgiye ulaşabilmelidir.
+
+2. Performans
+Statik veri kullanıldığı için sayfa geçişleri hızlı olmalıdır.
+
 
 
 
