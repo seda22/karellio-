@@ -130,6 +130,10 @@ görüntülenebilmelidir.
 sunulabilmelidir.
 
 ### Aktivite Bilgilerinin Gösterimi
+Seçilen destinasyona ait: 
 
+-yapılabilecek aktiviteler
+
+-liste halinde gösterilmelidir.
 
 KARELLIO
