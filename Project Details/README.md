@@ -199,6 +199,15 @@ aktivite
 bilgileri gösterilecektir.
  
 ### Başarı Kriterleri
+Aşağıdaki koşullar sağlandığında proje başarılı kabul edilir:
+
+Destinasyon bazlı yapı çalışır durumdadır.
+
+Tüm bilgi türleri tek arayüzde sunulabilmektedir.
+
+Kullanıcı seçimlerine göre içerik dinamik olarak değişmektedir.
+
+Arayüz sade ve kullanılabilir yapıdadır.
 
 
 KARELLIO
