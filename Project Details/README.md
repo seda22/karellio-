@@ -209,5 +209,7 @@ Kullanıcı seçimlerine göre içerik dinamik olarak değişmektedir.
 
 Arayüz sade ve kullanılabilir yapıdadır.
 
+### Beklenen Sonuç
+
 
 KARELLIO
