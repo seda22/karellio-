@@ -184,5 +184,21 @@ içerik görüntüleme alanı
 
 şeklinde iki ana bölümden oluşacaktır.
 
+İçerik alanında:
+
+sekme veya bölüm bazlı bir yapı ile
+
+ulaşım
+
+konaklama
+
+yeme-içme
+
+aktivite
+
+bilgileri gösterilecektir.
+ 
+
+
 
 KARELLIO
