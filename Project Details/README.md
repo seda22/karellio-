@@ -20,3 +20,24 @@ Geliştirilen sistem, ulaşım, konaklama, yeme-içme ve aktivite bilgilerini te
 Kullanıcıların seyahat planlama sürecinde ihtiyaç duyduğu temel bilgileri tek bir platform üzerinden erişilebilir hale getirerek karar verme sürecini kolaylaştırmak.
 
 ### Projenin Kapsamı
+Bu proje, destinasyon bazlı çalışan bir seyahat planlama arayüzünün prototip olarak geliştirilmesini kapsar.
+
+Kapsam dâhilinde:
+
+Belirli bir destinasyon seçimi yapılabilmesi
+
+Seçilen destinasyona ait aşağıdaki bilgi gruplarının tek bir arayüz altında sunulması:
+
+Ulaşım bilgileri
+
+Konaklama bilgileri
+
+Yeme-içme bilgileri
+
+Aktivite bilgileri
+
+Kullanıcının yaptığı seçimlere göre içeriğin dinamik olarak görüntülenmesi
+
+sağlanacaktır.
+
+Bu proje bir web tabanlı kullanıcı arayüzü prototipi geliştirme çalışmasıdır.
