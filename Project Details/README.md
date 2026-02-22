@@ -138,6 +138,13 @@ Seçilen destinasyona ait:
 
 ### Dinamik İçerik Güncellemesi
 
+Kullanıcının:
+
+-destinasyon değiştirmesi durumunda
+
+-tüm içerikler otomatik olarak güncellenmelidir.
+
+
 
 
 KARELLIO
