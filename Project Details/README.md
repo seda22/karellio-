@@ -19,3 +19,4 @@ Geliştirilen sistem, ulaşım, konaklama, yeme-içme ve aktivite bilgilerini te
 ### Projenin Amacı
 Kullanıcıların seyahat planlama sürecinde ihtiyaç duyduğu temel bilgileri tek bir platform üzerinden erişilebilir hale getirerek karar verme sürecini kolaylaştırmak.
 
+### Projenin Kapsamı
