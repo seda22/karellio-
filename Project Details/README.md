@@ -174,5 +174,9 @@ aktivite bilgileri
 
 Bu veriler statik olarak uygulama içerisinde tanımlanacaktır.
 
+### Arayüz Yapısı
+
+
+
 
 KARELLIO
