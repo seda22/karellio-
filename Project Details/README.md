@@ -15,3 +15,5 @@ Bu projede, kullanıcıların belirli bir destinasyon için seyahat planlamasın
 
 Günümüzde seyahat planlama süreci farklı platformlar arasında dağınık şekilde yürütülmektedir.
 Geliştirilen sistem, ulaşım, konaklama, yeme-içme ve aktivite bilgilerini tek bir yapı altında sunarak kullanıcıya bütünleşik bir planlama deneyimi sağlamayı hedefler.
+
+### Projenin Amacı
