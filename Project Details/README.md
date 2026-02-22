@@ -55,3 +55,9 @@ Seyahat öncesi karar verme sürecini hızlandırmak isteyen
 kullanıcılara yöneliktir.
 
 Teknik bilgi gerektirmeden kullanılabilecek bir arayüz hedeflenmektedir.
+
+### Mevcut Problem ve İş İhtiyacı
+
+
+
+KARELLIO
