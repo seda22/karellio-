@@ -153,6 +153,12 @@ Kullanıcının:
 2. Performans
 Statik veri kullanıldığı için sayfa geçişleri hızlı olmalıdır.
 
+3. Tarayıcı Uyumluluğu
+Modern web tarayıcılarında sorunsuz çalışmalıdır.
+
+4. Ölçeklenebilirlik
+Veri yapısı ileride yeni destinasyonların eklenmesine uygun tasarlanmalıdır.
+
 
 
 
