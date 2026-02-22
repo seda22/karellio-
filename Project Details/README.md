@@ -156,7 +156,23 @@ Modern web tarayıcılarında sorunsuz çalışmalıdır.
 4. Ölçeklenebilirlik :
 Veri yapısı ileride yeni destinasyonların eklenmesine uygun tasarlanmalıdır.
 
+### Veri Yapısı Analizi
 
+Sistem, destinasyon merkezli bir veri modeline sahiptir.
+
+Her destinasyon için aşağıdaki veri grupları tutulur:
+
+destinasyon bilgisi
+
+ulaşım bilgileri
+
+konaklama bilgileri
+
+yeme-içme bilgileri
+
+aktivite bilgileri
+
+Bu veriler statik olarak uygulama içerisinde tanımlanacaktır.
 
 
 KARELLIO
