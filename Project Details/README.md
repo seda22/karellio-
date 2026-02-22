@@ -121,5 +121,15 @@ temel tanıtım bilgileri
 görüntülenebilmelidir.
 
 ### Yeme-İçme Bilgilerinin Gösterimi
- 
+ Seçilen destinasyona ait:
+
+-yeme-içme noktaları
+
+-kısa açıklamalar
+
+sunulabilmelidir.
+
+### Aktivite Bilgilerinin Gösterimi
+
+
 KARELLIO
