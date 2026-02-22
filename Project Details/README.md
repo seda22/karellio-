@@ -120,5 +120,6 @@ temel tanıtım bilgileri
 
 görüntülenebilmelidir.
 
-
+### Yeme-İçme Bilgilerinin Gösterimi
+ 
 KARELLIO
