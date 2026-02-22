@@ -95,6 +95,11 @@ erişebileceği bir sistem ihtiyacı bulunmaktadır.
 
 -Kullanıcı seçimlerine göre içeriklerin dinamik olarak gösterilmesi
 
+### Fonksiyonel Gereksinimler
+
+
+
+
 
 
 KARELLIO
