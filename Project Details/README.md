@@ -112,6 +112,13 @@ listelenebilmelidir.
 
 ### Konaklama Bilgilerinin Gösterimi
 
+Seçilen destinasyona ait:
+
+konaklama alternatifleri
+
+temel tanıtım bilgileri
+
+görüntülenebilmelidir.
 
 
 KARELLIO
