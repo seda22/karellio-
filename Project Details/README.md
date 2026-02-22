@@ -78,6 +78,12 @@ Karar vermede zorluklara
 neden olmaktadır.
 
 ### İş İhtiyacı
+Kullanıcıların tüm temel seyahat bilgilerine;
 
+tek bir arayüz üzerinden,
+
+destinasyon merkezli bir yapı ile
+
+erişebileceği bir sistem ihtiyacı bulunmaktadır.
 
 KARELLIO
