@@ -41,3 +41,5 @@ Kullanıcının yaptığı seçimlere göre içeriğin dinamik olarak görüntü
 sağlanacaktır.
 
 Bu proje bir web tabanlı kullanıcı arayüzü prototipi geliştirme çalışmasıdır.
+
+### Kapsam Dışı Unsurlar
