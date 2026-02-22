@@ -86,4 +86,8 @@ destinasyon merkezli bir yapı ile
 
 erişebileceği bir sistem ihtiyacı bulunmaktadır.
 
+### Çözüm Yaklaşımı
+
+
+
 KARELLIO
