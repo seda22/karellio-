@@ -215,6 +215,15 @@ Geliştirilen arayüzün, seyahat planlama sürecini sadeleştirerek kullanıcı
 
 ### Genel Değerlendirme
 
+Karellio projesi;
 
+destinasyon bazlı yapı,
 
-KARELLIO
+statik veri ile çalışan prototip yaklaşımı,
+
+kullanıcı odaklı sade arayüz hedefi
+
+ile seyahat planlama sürecinde karar destek amacı taşıyan bir web arayüzü geliştirme çalışmasıdır.
+
+Bu çalışma, ileride gerçek veri kaynakları ve servis entegrasyonları ile genişletilebilecek bir temel mimari sunmaktadır.
+
