@@ -57,7 +57,25 @@ kullanıcılara yöneliktir.
 Teknik bilgi gerektirmeden kullanılabilecek bir arayüz hedeflenmektedir.
 
 ### Mevcut Problem ve İş İhtiyacı
+Seyahat planlama sürecinde kullanıcılar;
 
+Ulaşım için ayrı platformlar,
+
+Konaklama için ayrı platformlar,
+
+Yeme-içme ve aktiviteler için farklı kaynaklar
+
+kullanmak zorunda kalmaktadır.
+
+Bu durum:
+
+Bilgi dağınıklığına,
+
+Zaman kaybına,
+
+Karar vermede zorluklara
+
+neden olmaktadır.
 
 
 KARELLIO
