@@ -176,7 +176,13 @@ Bu veriler statik olarak uygulama içerisinde tanımlanacaktır.
 
 ### Arayüz Yapısı
 
+Arayüz genel olarak:
 
+destinasyon seçim alanı
+
+içerik görüntüleme alanı
+
+şeklinde iki ana bölümden oluşacaktır.
 
 
 KARELLIO
