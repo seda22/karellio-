@@ -87,6 +87,13 @@ destinasyon merkezli bir yapı ile
 erişebileceği bir sistem ihtiyacı bulunmaktadır.
 
 ### Çözüm Yaklaşımı
+-Destinasyon bazlı veri yapısının oluşturulması
+
+-React kullanılarak kullanıcı arayüzünün geliştirilmesi
+
+-Statik verilerle çalışan bir prototip sistem kurulması
+
+-Kullanıcı seçimlerine göre içeriklerin dinamik olarak gösterilmesi
 
 
 
