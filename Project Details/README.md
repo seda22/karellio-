@@ -43,3 +43,15 @@ sağlanacaktır.
 Bu proje bir web tabanlı kullanıcı arayüzü prototipi geliştirme çalışmasıdır.
 
 ### Hedef Kullanıcı Profili
+
+Sistem;
+
+Belirli bir destinasyon için plan yapmak isteyen
+
+Farklı platformlarda dağınık bilgi toplamak istemeyen
+
+Seyahat öncesi karar verme sürecini hızlandırmak isteyen
+
+kullanıcılara yöneliktir.
+
+Teknik bilgi gerektirmeden kullanılabilecek bir arayüz hedeflenmektedir.
