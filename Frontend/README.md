@@ -8,4 +8,3 @@
 | 4  | Destinasyon seçim bileşeninin geliştirilmesi  | React component, state yönetimi  |Destinasyon listesinin gösterilmesi ve seçilebilir hale getirilmesi | F-04 |seda EFE   |03.03.2026   |05.03.2026 |  2 | Yapılacak   | 
 | 5  | Seçilen destinasyonun state ile yönetilmesi  | React useState / props  |Seçilen destinasyon bilgisinin merkezi state üzerinden yönetilmesi | F-05 |seda EFE   |06.03.2026   |08.03.2026 |  2 | Yapılacak   | 
 
-KARELLIO
