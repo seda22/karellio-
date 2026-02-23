@@ -1,10 +1,16 @@
-#  <p align="center">  Gereksinim Analizi ve Görevler  </p>
+# React + Vite
 
-| Sayı | Görev |  Gereksinimler | Yapılacaklar  | Görev | Sorumlu | Başlangıç Tarihi | Bitiş Tarihi | Gün | Durum |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1  | Proje kurulumu ve klasör yapısı  | React, Node.js, geliştirme ortamı  | React projesi oluşturma, components, pages ve data klasörlerinin oluşturulması  | F-01|seda EFE   |24.02.2026   |25.02.2026 |  2 | Yapılacak   | 
-| 2  | Statik destinasyon veri yapısının hazırlanması  |Proje veri modeli, JSON yapısı  |Destinasyon, ulaşım, konaklama, yeme-içme ve aktivite alanlarını içeren statik verilerin oluşturulması | F-02|seda EFE   |26.02.2026   |27.02.2026 |  2 | Yapılacak   | 
-| 3  | Ana sayfa ve layout iskeletinin oluşturulmas  | React layout yapısı  |Header, içerik alanı ve genel sayfa iskeletinin oluşturulması | F-03 |seda EFE   |28.02.2026   |02.03.2026 |  3 | Yapılacak   | 
-| 4  | Destinasyon seçim bileşeninin geliştirilmesi  | React component, state yönetimi  |Destinasyon listesinin gösterilmesi ve seçilebilir hale getirilmesi | F-04 |seda EFE   |03.03.2026   |05.03.2026 |  3 | Yapılacak   | 
-| 5  | Seçilen destinasyonun state ile yönetilmesi  | React useState / props  |Seçilen destinasyon bilgisinin merkezi state üzerinden yönetilmesi | F-05 |seda EFE   |06.03.2026   |08.03.2026 |  3 | Yapılacak   | 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
