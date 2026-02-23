@@ -1,6 +1,6 @@
 # Gereksinim Analizi ve Görevler
 
-| Number | Need |  Frontend | Task  | Command | Description | Command | Description | Command | Description |
+| Number | Things to do |  Needed | Tasks  | Personnel | Start Date | End Date | Days | Situation | Description |
 
 
 
