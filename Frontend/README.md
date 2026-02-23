@@ -1,6 +1,6 @@
 # Gereksinim Analizi ve Görevler
 
-| Number | Description |  Command | Description  | Command | Description | Command | Description | Command | Description |
+| Number | Need |  Frontend | Task  | Command | Description | Command | Description | Command | Description |
 
 
 
