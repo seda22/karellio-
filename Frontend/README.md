@@ -1,4 +1,4 @@
-#  <align="center">  Gereksinim Analizi ve Görevler
+#  <p align="center">  Gereksinim Analizi ve Görevler  </p>
 
 | Sayı | Görev |  Gereksinimler | Yapılacaklar  | Görev | Sorumlu | Başlangıç Tarihi | Bitiş Tarihi | Gün | Durum |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
