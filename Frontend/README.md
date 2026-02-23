@@ -1,5 +1,4 @@
-# Yapılacak İş Listesi
-Bu liste yalnızca arayüz geliştirme içindir.
+# Gereksinim Analizi ve Görevler
 
 
 KARELLIO
