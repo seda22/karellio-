@@ -1,4 +1,4 @@
-#  <div dir="rtl">  Gereksinim Analizi ve Görevler </div>
+#  <div dir="ltr">  Gereksinim Analizi ve Görevler </div>
 
 | Sayı | Görev |  Gereksinimler | Yapılacaklar  | Görev | Sorumlu | Başlangıç Tarihi | Bitiş Tarihi | Gün | Durum |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
