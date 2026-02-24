@@ -1,8 +1,8 @@
 const Header = () => {
     return(
         <>
-        <header>
-            <h1>Karellio</h1>
+        <header className="header">
+            <h1 className="karellio-logo">Karellio</h1>
         </header>
         </>
     )

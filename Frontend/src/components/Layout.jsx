@@ -3,13 +3,13 @@ import Header from "./Header";
 const Layout = () => {
 
   return(
-    <>
+    <div className="layout-div">
     <Header/>
-    <main>
-        <section>Destinasyon Seçim Alanı</section>
-        <section>İçerik Alanı</section>
+    <main className="main">
+        <section className="destination-section">Destinasyon Seçim Alanı</section>
+        <section className="content-section">İçerik Alanı</section>
     </main>
-    </>
+    </div>
   )
 
 }
