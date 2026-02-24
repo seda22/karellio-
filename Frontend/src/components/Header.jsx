@@ -1,9 +1,10 @@
 const Header = () => {
-    return 
+    return(
         <>
         <header>
             <h1>Karellio</h1>
         </header>
         </>
+    )
 };
 export default Header;
