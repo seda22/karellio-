@@ -1,4 +1,6 @@
 import Header from "./Header";
+import {destinations} from "../data/Destinations.js"
+import IslandCards from "./IslandCards.jsx"
 
 const Layout = () => {
 
@@ -6,7 +8,7 @@ const Layout = () => {
     <div className="layout-div">
     <Header/>
     <main className="main">
-        <section className="destination-section">Destinasyon Seçim Alanı</section>
+        <section className="destination-section"><IslandCards destinations={destinations}/></section>
         <section className="content-section">İçerik Alanı</section>
     </main>
     </div>
