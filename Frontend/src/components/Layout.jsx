@@ -6,7 +6,7 @@ import IslandDetails from "./IslandDetails.jsx"
 
 const Layout = () => {
 
-  const [selectedIsland, setSelectedIsland] = useState(null);
+  const [selectedIsland, setSelectedIsland] = useState(destinations[0]);
 
   return(
     <div className="layout-div">
