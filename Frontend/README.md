@@ -13,4 +13,3 @@
 | 9  | Yeme-içme bilgileri ekranı  | Statik yeme-içme verileri |Seçilen destinasyona ait yeme-içme bilgilerinin listelenmesi | F-09 |seda EFE   |05.03.2026   |06.03.2026 |  3 | Yapılacak   | 
 
 
-KARELLIO
