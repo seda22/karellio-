@@ -12,7 +12,7 @@ const Layout = () => {
     <div className="layout-div">
     <Header/>
     <main className="main">
-        <section className="destination-section"><IslandCards destinations={destinations} onSelect={setSelectedIsland}/></section>
+        <section className="destination-section"><IslandCards destinations={destinations} onSelect={setSelectedIsland} selectedIsland={selectedIsland}/></section>
         <section className="content-section"><IslandDetails selectedIsland={selectedIsland}/></section>
     </main>
     </div>
