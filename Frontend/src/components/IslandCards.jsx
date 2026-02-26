@@ -1,10 +1,13 @@
-export default function IslandCards (props){
+export default function IslandCards ({destinations}){
 
     return(
-        <div key={id} className="island-card">
-            <h3>{name}</h3>
-            <span>{country}</span>
-            <p>{description}</p>
+        <div className="card-grid">
+            {destinations.map(({id, name, country, description}) =>
+                <div key={id} className="island-card">
+                    <h3>{name}</h3>
+                    <span>{country}</span>
+                    <p>{description}</p>
+                </div>)}
         </div>
 
     )
