@@ -1,8 +1,7 @@
 export default function IslandDetails ({selectedIsland}) {
     console.log(selectedIsland);
-if (!selectedIsland) return <p>Haydi bir ada keşfedelim!</p>;
 
-    const {name, country, description, transportation=[], accommodation =[], foodAndDrink, activities} = selectedIsland;
+    const {id, name, country, description, transportation, accommodation, foodAndDrink, activities} = selectedIsland;
     
     return(
         <div className="island-details">
@@ -35,7 +34,33 @@ if (!selectedIsland) return <p>Haydi bir ada keşfedelim!</p>;
                 }
                 )}
             </ul>
+            
+            <h3>Yeme&İçme</h3>
+            <ul>
+                {foodAndDrink.map((item) => {
+                    return(
+                    <li key={item.name}>
+                        <strong>{item.name}</strong>
+                        <span>{item.type}</span>
+                        <p>{item.description}</p>
+                    </li>
+                )   
+                }
+                )}
+            </ul>
 
+            <h3>Aktiviteler</h3>
+            <ul>
+                {activities.map((item) => {
+                    return(
+                    <li key={item.name}>
+                        <strong>{item.name}</strong>
+                        <p>{item.description}</p>
+                    </li>
+                )   
+                }
+                )}
+            </ul>
 
         </div>
     )
