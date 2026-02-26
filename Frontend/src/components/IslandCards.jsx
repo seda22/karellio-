@@ -1,4 +1,6 @@
-//import { Card, CardContent, Typography } from "@mui/material";
+import Card from '@mui/joy/Card';
+import CardContent from '@mui/joy/CardContent';
+import Typography from '@mui/joy/Typography';
 
 export default function IslandCards ({destinations, onSelect, selectedIsland}){
 
