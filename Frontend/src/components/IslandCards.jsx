@@ -9,6 +9,5 @@ export default function IslandCards ({destinations}){
                     <p>{description}</p>
                 </div>)}
         </div>
-
     )
 }

@@ -1,5 +1,5 @@
 import Header from "./Header";
-import {destinations} from "../data/Destinations.js"
+import destinations from "../data/Destinations.js"
 import IslandCards from "./IslandCards.jsx"
 
 const Layout = () => {
@@ -13,7 +13,6 @@ const Layout = () => {
     </main>
     </div>
   )
-
 }
 
 export default Layout;
