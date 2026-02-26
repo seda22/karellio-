@@ -9,10 +9,20 @@ export default function IslandDetails ({selectedIsland}) {
     const {id, name, country, description, transportation, accommodation, foodAndDrink, activities} = selectedIsland;
     
     return(
-        <div className="island-details">
-            <h2>{name}</h2>
-            <span>{country}</span>
-            <p>{description}</p>
+        <Card
+            variant="outlined"
+            size="lg"
+            sx={{
+                maxWidth: 1000,
+                mx: "auto",
+                mt: 4,
+                p: 3
+            }}
+        >
+            <CardContent>
+            <Typography level="h3">{name}</Typography>
+            <Typography level="body-sm">{country}</Typography>
+            <Typography level="body-md">{description}</Typography>
 
             <h3>Ulaşım</h3>
             <ul>
@@ -66,7 +76,7 @@ export default function IslandDetails ({selectedIsland}) {
                 }
                 )}
             </ul>
-
-        </div>
+            </CardContent>
+        </Card>
     )
 }
