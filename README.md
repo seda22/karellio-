@@ -1,37 +1,15 @@
-# Karellio – Destinasyon Bazlı Seyahat Planlama Arayüzü
+#  <p align="center">  Gereksinim Analizi ve Görevler  </p>
 
-## 📌 Proje Alanı
-Yazılım Geliştirme ve Karar Destek Sistemleri
+| Sayı | Görev |  Gereksinimler | Yapılacaklar  | Görev | Sorumlu | Başlangıç Tarihi | Bitiş Tarihi | Gün | Durum |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1  | Proje kurulumu ve klasör yapısı  | React, Node.js, geliştirme ortamı  | React projesi oluşturma, components, pages ve data klasörlerinin oluşturulması  | F-01|seda EFE   |24.02.2026   |24.02.2026 |  1 | Tamamlandı (24.02.2026)   | 
+| 2  | Statik destinasyon veri yapısının hazırlanması  |Proje veri modeli, JSON yapısı  |Destinasyon, ulaşım, konaklama, yeme-içme ve aktivite alanlarını içeren statik verilerin oluşturulması | F-02|seda EFE   |24.02.2026   |24.02.2026 |  1 | Tamamlandı (24.02.2026)   | 
+| 3  | Ana sayfa ve layout iskeletinin oluşturulmas  | React layout yapısı  |Header, içerik alanı ve genel sayfa iskeletinin oluşturulması | F-03 |seda EFE   |24.02.2026   |24.02.2026 |  1 | Tamamlandı (24.02.2026)   | 
+| 4  | Destinasyon seçim bileşeninin geliştirilmesi  | React component, state yönetimi  |Destinasyon listesinin gösterilmesi ve seçilebilir hale getirilmesi | F-04 |seda EFE   |26.02.2026   |26.02.2026 |  1 | Tamamlandı (26.02.2026)   | 
+| 5  | Seçilen destinasyonun state ile yönetilmesi  | React useState / props  |Seçilen destinasyon bilgisinin merkezi state üzerinden yönetilmesi | F-05 |seda EFE   |26.02.2026   |26.02.2026 |  1 | Tamamlandı (26.02.2026)   | 
+| 6  | Kategori sekmeleri  | React component yapısı  |Ulaşım, konaklama, yeme-içme ve aktivite sekmelerinin oluşturulması | F-06 |seda EFE   |27.02.2026   |28.02.2026 |  3 | Yapılacak   | 
+| 7  | Ulaşım bilgileri ekranı  | Statik ulaşım verileri  |Seçilen destinasyona ait ulaşım bilgilerinin listelenmesi | F-07 |seda EFE   |01.03.2026   |02.03.2026 |  3 | Yapılacak   |
+| 8  | Konaklama bilgileri ekranı  | Statik konaklama verileri  |Seçilen destinasyona ait konaklama bilgilerinin listelenmesi | F-08 |seda EFE   |03.03.2026   |04.03.2026 |  3 | Yapılacak   |  
+| 9  | Yeme-içme bilgileri ekranı  | Statik yeme-içme verileri |Seçilen destinasyona ait yeme-içme bilgilerinin listelenmesi | F-09 |seda EFE   |05.03.2026   |06.03.2026 |  3 | Yapılacak   | 
 
-## 📌 Tematik Alan
-Seyahat Planlama Uygulamaları
 
-## 📌 Proje Tanımı
-Bu projede, kullanıcıların belirli bir destinasyon için seyahat planlamasını daha hızlı ve düzenli yapabilmesini sağlayan bir web arayüzü geliştirilmesi amaçlanmaktadır.
-
-Günümüzde seyahat planlama süreci farklı platformlar arasında dağınık şekilde yürütülmektedir.  
-Geliştirilen sistem, ulaşım, konaklama, yeme-içme ve aktivite bilgilerini tek bir yapı altında sunarak kullanıcıya bütünleşik bir planlama deneyimi sağlamayı hedefler.
-
-## 🎯 Amaç
-Kullanıcıların seyahat planlama sürecinde ihtiyaç duyduğu temel bilgileri tek bir platform üzerinden erişilebilir hale getirerek karar verme sürecini kolaylaştırmak.
-
-## ⚙️ Yöntem
-- Destinasyon bazlı veri yapısının oluşturulması  
-- React kullanılarak kullanıcı arayüzünün geliştirilmesi  
-- Statik verilerle çalışan bir prototip sistem kurulması  
-- Kullanıcı seçimlerine göre içeriklerin dinamik olarak gösterilmesi  
-
-## ✅ Beklenen Sonuç
-Geliştirilen arayüzün, seyahat planlama sürecini sadeleştirerek kullanıcıların daha hızlı karar verebilmesini sağlaması beklenmektedir.
-
-## ⏱️ Zaman Planı
-
-| Aşama | Süre |
-|------|------|
-Analiz ve Tasarım | 2 Hafta |
-Arayüz Geliştirme | 4 Hafta |
-Test ve Düzenleme | 2 Hafta |
-
----
-
-Bu proje, seyahat planlama deneyimini daha düzenli ve kullanıcı odaklı hale getirmeye yönelik bir prototip geliştirme çalışmasıdır
