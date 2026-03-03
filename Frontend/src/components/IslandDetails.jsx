@@ -26,6 +26,13 @@ export default function IslandDetails ({selectedIsland}) {
             <Typography level="body-sm">{country}</Typography>
             <Typography level="body-md">{description}</Typography>
 
+            <div>
+                <button onClick={() => setActiveTab("transportation")}>
+                    Ulaşım
+                </button>
+            </div>
+
+
             <h3>Ulaşım</h3>
             <ul>
                 {transportation.map((item) => {
