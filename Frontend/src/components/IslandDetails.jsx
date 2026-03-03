@@ -81,18 +81,17 @@ export default function IslandDetails ({selectedIsland}) {
             )}
 
 
-            <h3>Aktiviteler</h3>
+            {activeTab === "activities" && (
             <ul>
-                {activities.map((item) => {
-                    return(
+                {activities.map((item) => (
                     <li key={item.name} >
                         <strong>{item.name}: </strong>
                         <p>{item.description}</p>
                     </li>
-                )   
-                }
-                )}
+                ))}
             </ul>
+            )}
+
             </CardContent>
         </Card>
     )
