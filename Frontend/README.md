@@ -18,6 +18,14 @@ npm install
 ```
 npm run dev
 ```
+
+## Scripts
+```
+ npm start → uygulamayı çalıştırır
+ npm run build → production build alır
+```
+
+
 ### Kullanılan Teknolojiler
 
 React
