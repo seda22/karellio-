@@ -15,9 +15,9 @@ cd karellio-
 npm install
 ```
 ### Çalıştırma
-
+```
 npm run dev
-
+```
 ### Kullanılan Teknolojiler
 
 React
