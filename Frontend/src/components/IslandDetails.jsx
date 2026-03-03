@@ -30,6 +30,15 @@ export default function IslandDetails ({selectedIsland}) {
                 <button onClick={() => setActiveTab("transportation")}>
                     Ulaşım
                 </button>
+                <button onClick={() => setActiveTab("accommodation")}>
+                    Konaklama
+                </button>
+                <button onClick={() => setActiveTab("food")}>
+                    Yeme & İçme
+                </button>
+                <button onClick={() => setActiveTab("activities")}>
+                    Aktiviteler
+                </button>
             </div>
 
 
