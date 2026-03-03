@@ -7,6 +7,8 @@ export default function IslandDetails ({selectedIsland}) {
     console.log(selectedIsland);
 
     const {id, name, country, description, transportation, accommodation, foodAndDrink, activities} = selectedIsland;
+
+    const [activeTab, setActiveTab] = useState("transportation");
     
     return(
         <Card
