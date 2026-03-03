@@ -47,7 +47,7 @@ export default function IslandDetails ({selectedIsland}) {
             <ul>
                 {transportation.map((item) => (
                     <li key={item.type}>
-                        <strong>{item.type}:</strong> 
+                        <strong>{item.type}: </strong> 
                         <span>{item.description}</span>
                     </li>
                     )
@@ -58,8 +58,8 @@ export default function IslandDetails ({selectedIsland}) {
             <ul>
                 {accommodation.map((item) => (
                     <li key={item.name}>
-                        <strong>{item.name}</strong>
-                        <span>{item.type}</span>
+                        <strong>{item.name}: </strong>
+                        <span>{item.type} </span>
                         <p>{item.description}</p>
                     </li>
                 )   
@@ -67,27 +67,26 @@ export default function IslandDetails ({selectedIsland}) {
             </ul>
             )}
 
-            
-            <h3>Yeme&İçme</h3>
+
+            {activeTab === "food" && (
             <ul>
-                {foodAndDrink.map((item) => {
-                    return(
-                    <li key={item.name}>
-                        <strong>{item.name}</strong>
-                        <span>{item.type}</span>
+                {foodAndDrink.map((item) => (
+                    <li key={item.name} >
+                        <strong>{item.name}: </strong>
+                        <span>{item.type} </span>
                         <p>{item.description}</p>
                     </li>
-                )   
-                }
-                )}
+                ))}
             </ul>
+            )}
+
 
             <h3>Aktiviteler</h3>
             <ul>
                 {activities.map((item) => {
                     return(
-                    <li key={item.name}>
-                        <strong>{item.name}</strong>
+                    <li key={item.name} >
+                        <strong>{item.name}: </strong>
                         <p>{item.description}</p>
                     </li>
                 )   
