@@ -54,19 +54,19 @@ export default function IslandDetails ({selectedIsland}) {
                 )}
             </ul>)}
 
-            <h3>Konaklama</h3>
+            {activeTab === "accommodation" && (
             <ul>
-                {accommodation.map((item) => {
-                    return(
+                {accommodation.map((item) => (
                     <li key={item.name}>
                         <strong>{item.name}</strong>
                         <span>{item.type}</span>
                         <p>{item.description}</p>
                     </li>
                 )   
-                }
-                )}
+            )}
             </ul>
+            )}
+
             
             <h3>Yeme&İçme</h3>
             <ul>
