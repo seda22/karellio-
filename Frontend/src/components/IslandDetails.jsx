@@ -2,6 +2,7 @@ import Card from '@mui/joy/Card';
 import CardContent from '@mui/joy/CardContent';
 import Typography from '@mui/joy/Typography';
 import Divider from '@mui/joy/Divider';
+import {useState} from "react"
 
 export default function IslandDetails ({selectedIsland}) {
     console.log(selectedIsland);
@@ -42,17 +43,16 @@ export default function IslandDetails ({selectedIsland}) {
             </div>
 
 
-            <h3>Ulaşım</h3>
+            {activeTab === "transportation" && (
             <ul>
-                {transportation.map((item) => {
-                    return(
+                {transportation.map((item) => (
                     <li key={item.type}>
                         <strong>{item.type}:</strong> 
                         <span>{item.description}</span>
                     </li>
                     )
-                })}
-            </ul>
+                )}
+            </ul>)}
 
             <h3>Konaklama</h3>
             <ul>
