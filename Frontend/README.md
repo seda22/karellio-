@@ -6,7 +6,7 @@ Node.js (v18+ önerilir)
 
 npm
 
-### Kurulum
+### Proje Kurulumu
 ```
 git clone https://github.com/YOUR_USERNAME/karellio-.git
 
@@ -14,7 +14,7 @@ cd karellio-
 
 npm install
 ```
-### Çalıştırma
+### Projeyi Çalıştırma
 ```
 npm run dev
 ```
